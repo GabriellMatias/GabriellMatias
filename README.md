@@ -1,7 +1,7 @@
 ### Hi guys, whats up? 👋
 
 - 📚 I’m studing on UCB (Universidade Catolica de Brasilia)
-- 🌱 I’m currently learning [PYTHON, HTML AND JAVA]
+- 🌱 I’m currently learning [PYTHON, HTML AND REACT]
 - 💬 Instagram Contact [@gabriellmatiaz]
 
 <div align="center">

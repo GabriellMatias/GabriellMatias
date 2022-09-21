@@ -1,7 +1,7 @@
 ### Hi guys, whats up? 👋
 
 - 📚 I’m studing on UCB (Universidade Catolica de Brasilia)
-- 🌱 I’m currently learning [PYTHON AND JAVASCRIPT]
+- 🌱 I’m currently learning [React, ReactNative, Node.js and TypeScript]
 - 💬 Instagram Contact [@gabriellmatiaz]
 
 <div align="center">
@@ -15,6 +15,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://page.driven.com.br/inscricoes?utm_source=site">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+  
   
 </div>
   ### <br>

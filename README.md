@@ -5,6 +5,10 @@
 - 🖥️  See my portfolio at [My Portfolio](https://gabriellmatias.github.io/My-Portifolio/)
 - ✉️  You can contact me at [gabriel.goiasat@gmail.com](mailto:gabriel.goiasat@gmail.com)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!;JavaScript+programmer!;React+ReactNative!;FrontEnd+developer!;NodeJS+and+Python!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <div align="center">
   <a href="https://github.com/GabriellMatias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

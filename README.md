@@ -2,7 +2,7 @@
 
 - 📚 I’m studing on UCB (Universidade Catolica de Brasilia)
 - 🌱 I’m currently learning [React, ReactNative, Node.js and TypeScript]
-- 🖥️  See my portfolio at [My Portfolio](https://gabriellmatias.github.io/My-Portifolio/)
+- 🖥️  See my portfolio at [My Portfolio](https://portifolio-ashy-mu.vercel.app/)
 - ✉️  You can contact me at [gabriel.goiasat@gmail.com](mailto:gabriel.goiasat@gmail.com)
 
 <p align="center">

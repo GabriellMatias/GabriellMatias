@@ -10,10 +10,11 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/GabriellMatias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  <div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellMatias&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <br/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GabriellMatias&theme=nord&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+    <br/>
+  <div style="display: inline_block"><br/>
   <p align="left">
     
 ## Main STACK
@@ -49,4 +50,14 @@
    ![Snake animation](https://github.com/GabriellMatias/GabriellMatias/blob/output/github-contribution-grid-snake.svg)
     
 </div>
+
+
+
+</div>
+<br/>
+<div align="center">
+  <img height="203px" src="https://streak-stats.demolab.com?user=GabriellMatias&theme=nord&hide_border=true" />
+</div>
+
+
   

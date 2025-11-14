@@ -1,8 +1,8 @@
 ### Hi there! I'm Gabriel Matias 👋
 
-- 🎓 Studying at UCB (Universidade Católica de Brasília)
+- 🎓 Graduate on Computer Science at UCB (Universidade Católica de Brasília)
 - 🌱 Currently focused on [Jenkins, DevOps, Pipelines, MicroServices, and Automated Tests]
-- 💼 With 3-4 years of daily hands-on experience, I’m a seasoned Full Stack Developer.
+- 💼 With 5+ years of daily hands-on experience, I’m a seasoned Full Stack Developer.
 - 🧑‍💻 I specialize in building and managing complete applications, both front-end and back-end.
 - 🏆 Currently, I lead a division, coordinating multiple apps and overseeing a dedicated team of developers.
 - 🖥️ Check out my portfolio at [My Portfolio](https://portifolio-ashy-mu.vercel.app/)
